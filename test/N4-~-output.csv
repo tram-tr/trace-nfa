@@ -1,0 +1,3 @@
+input_file,NFA_name,input_string,possible_paths,accept_paths
+N4.csv,N4-fig. 1.36,~,2,1
+*q1

@@ -1,0 +1,6 @@
+input_file,NFA_name,input_string,possible_paths,accept_paths
+HW4-7.csv,HW4-7,01,4,4
+A,*C,*C
+A,B,*C,*C
+A,B,B,*C
+A,B,*C,*C,*C
